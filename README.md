@@ -1,2 +1,11 @@
-# UsefulFood-Reheated
-The official version tracking repository for UsefulFood: Reheated. Contains critical culinary version data. And... that's it.
+# 🍳 UsefulFood: Reheated - Version Tracking
+
+This repository contains the official version number for UsefulFood: Reheated.
+
+## What's Here
+- `version.txt` - The current version number
+- That's it
+- Seriously
+- No really, that's all
+
+For actual mod downloads, visit [CurseForge](https://www.curseforge.com/minecraft/mc-mods/usefulfood-reheated).
